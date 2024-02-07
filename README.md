@@ -5,7 +5,7 @@ Bash scripts I have used or might use in the future
 
 [Interactive.sh](https://github.com/OklenCodes/BashScripts/blob/main/interactive.sh)  - creates an interactive shell that reads responses
 
-[Read-Menu.sh] (https://github.com/OklenCodes/BashScripts/blob/main/read-menu.sh) - display a menu for system information
+[Read-Menu.sh](https://github.com/OklenCodes/BashScripts/blob/main/read-menu.sh) - display a menu for system information
 
 [Pomodoro.sh](https://github.com/OklenCodes/BashScripts/blob/main/pomodoro.sh) - a simple pomodoro app written in bash
 
