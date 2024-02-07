@@ -1,7 +1,7 @@
 # BashScripts
 Bash scripts I have used or might use in the future
 
-CTFMFACode.sh https://github.com/OklenCodes/BashScripts/main/CTFMFACode - Bash code for iterating MFA code
+CTFMFACode.sh - Bash code for iterating MFA code
 
 Interactive.sh  - creates an interactive shell that reads responses
 
