@@ -1,14 +1,14 @@
 # BashScripts
 Bash scripts I have used or might use in the future
 
-CTFMFACode.sh [CTFMFACODE.sh](https://github.com/OklenCodes/BashScripts/blob/main/CTFMFACode) - Bash code for iterating MFA code
+[CTFMFACODE.sh](https://github.com/OklenCodes/BashScripts/blob/main/CTFMFACode) - Bash code for iterating MFA code
 
-Interactive.sh  - creates an interactive shell that reads responses
+[Interactive.sh](https://github.com/OklenCodes/BashScripts/blob/main/interactive.sh)  - creates an interactive shell that reads responses
 
-Read-Menu.sh - display a menu for system information
+[Read-Menu.sh] (https://github.com/OklenCodes/BashScripts/blob/main/read-menu.sh) - display a menu for system information
 
-Pomodoro.sh - a simple pomodoro app written in bash
+[Pomodoro.sh](https://github.com/OklenCodes/BashScripts/blob/main/pomodoro.sh) - a simple pomodoro app written in bash
 
-weather.sh - check the weather in a specified location or using the geolocation of the ip address by default.
+[weather.sh](https://github.com/OklenCodes/BashScripts/blob/main/weather.sh) - check the weather in a specified location or using the geolocation of the ip address by default.
 
-cpu.sh - report if CPU usage exceeds the threshold
+[CPU.sh](https://github.com/OklenCodes/BashScripts/blob/main/cpu.sh) - report if CPU usage exceeds the threshold
