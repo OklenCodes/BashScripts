@@ -1,8 +1,13 @@
 #!/bin/bash
 
-if [ -f ~/myfile ]
+command=/usr/bin/htop 
+
+if [ -f $command ]
 then
-	echo "The file exists."
+	echo "$command is available, lets run it"
 else 
-	echo "The file does not exist"
+	echo "$command is NOT available, lets install it..."
+ sudo apt update && sudo apt install -y htop 
 fi
+
+$command
