@@ -2,7 +2,7 @@
 
 command=htop 
 
-if [ -f $command ]
+if command -v $command
 then
 	echo "$command is available, lets run it"
 else 
